@@ -1,0 +1,14 @@
+.eyecatching-button {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.monochrome {
+  background-color: black;
+  color: white;
+}
+
+.warning {
+  background-color: yellow;
+  color: black;
+}
