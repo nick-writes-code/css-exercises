@@ -1,0 +1,21 @@
+.odd {
+  background-color: #eac4d5;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.third {
+  font-size: 24px;
+}
+
+#second {
+  color: #809bce;
+  font-size: 36px;
+}
+
+#fourth {
+  background-color: #b8e0d4;
+  font-size: 24px;
+  font-weight: 700;
+}
